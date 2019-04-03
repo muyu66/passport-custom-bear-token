@@ -1,0 +1,14 @@
+{
+  "name": "passport-custom-bear-token",
+  "version": "0.0.2",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "passport-strategy": "^1.0.0"
+  }
+}
